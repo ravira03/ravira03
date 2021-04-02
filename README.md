@@ -4,7 +4,7 @@
 
 
 <h1 align='center'>
-  Hey Hello, I am Ravi Varma 👋
+  Hey Hello, I am Ravi Varma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   <br/>
   <h4 align = 'center'>I am a self taught Full stack Developer.</h4>
 </h1>
