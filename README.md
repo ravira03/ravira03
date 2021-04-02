@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<h1 align='center'>
+  Hey Hello, I am Ravi Varma 👋
+  <br/>
+  <h4 align = 'center'>I am a self taught Full stack Developer.</h4>
+</h1>
 <!--
 **ravira03/ravira03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
