@@ -60,14 +60,11 @@
 <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p> 
 
-### Github Activity ✔:
-<a href="https://github.com/ravira03">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=ravira03&show_icons=true&theme=tokyonight&line_height=35" alt="ravi's github stats"/>
-</a>
-
-<a href="https://github.com/ravira03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravira03&theme=tokyonight" />
-</a>
+### 📈 My Stats
+<p align='center' >
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravira03&show_icons=true&theme=dark" width=420/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravira03&layout=compact&theme=dark">
+<p/>
 
 <!--
 **ravira03/ravira03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
