@@ -60,6 +60,10 @@
 <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p> 
 
+### Github Activity ✔:
+<a href="https://github.com/ravira03">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravira03&show_icons=true&theme=tokyonight&line_height=27" alt="ravi's github stats"/>
+</a>
 
 
 <!--
