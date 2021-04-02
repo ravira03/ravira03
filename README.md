@@ -42,6 +42,19 @@
   <img src = 'https://img.shields.io/badge/netlify-430098?style=for-the-badge&logo=netlify&logoColor=white%27'>
 </p>
 
+### Currently learning 📚
+<p align = 'center'>
+<img src = 'https://img.shields.io/badge/devops-ED8B00?style=for-the-badge&logo=devops&logoColor=white'>
+ <img src = 'https://img.shields.io/badge/react-native-ED8B00?style=for-the-badge&logo=react-native&logoColor=white'>
+</p>
+
+### My Toolbox 🧰
+<p align="center">
+ <img src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</p> 
+
 
 
 <!--
