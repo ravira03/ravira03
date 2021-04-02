@@ -60,7 +60,7 @@
 <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p> 
 
-### 📈 My Stats
+### My Stats 📈 
 <p align='center' >
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravira03&show_icons=true&theme=dark" width=420/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravira03&layout=compact&theme=dark">
