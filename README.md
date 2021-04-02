@@ -62,7 +62,7 @@
 
 ### Github Activity ✔:
 <a href="https://github.com/ravira03">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravira03&show_icons=true&theme=tokyonight&line_height=27" alt="ravi's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravira03&show_icons=true&theme=tokyonight&line_height=30" alt="ravi's github stats"/>
 </a>
 
 <a href="https://github.com/ravira03">
