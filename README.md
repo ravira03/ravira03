@@ -65,6 +65,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravira03&show_icons=true&theme=tokyonight&line_height=27" alt="ravi's github stats"/>
 </a>
 
+<a href="https://github.com/ravira03">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravira03&theme=tokyonight" />
+</a>
 
 <!--
 **ravira03/ravira03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
